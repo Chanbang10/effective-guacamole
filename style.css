@@ -1,0 +1,23 @@
+p {
+    color: cadetblue;
+}
+a {
+    color: black;
+}
+body  {
+    border: 20px solid #bcd3c7; 
+    padding: 20px;
+    max-width: 700px;
+    width:80%;
+    margin: 20px auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color:rosybrown;
+}
+h3 {
+    color: seagreen;
+}
+h4 {
+    color: steelblue;
+}
